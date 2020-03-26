@@ -2,3 +2,5 @@ Toyota Corolla
 Audi R8
 Tesla
 Mercedes 5500
+Kia Optima
+Lexus Gx470
