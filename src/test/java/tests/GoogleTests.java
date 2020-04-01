@@ -1,5 +1,5 @@
 package tests;
 
 public class GoogleTests {
-  // this is a commentg
+  // this is a comment
 }
